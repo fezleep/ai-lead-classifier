@@ -1,4 +1,4 @@
-AI Lead Qualification API
+AI Lead Classifier API
 
 An intelligent microservice designed to classify inbound leads using Large Language Models. This API analyzes sales intent and categorizes leads into HOT, WARM, or COLD status.
 
